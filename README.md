@@ -12,9 +12,9 @@ Este repositório contém a documentação, prompts e artefatos finais dos dois 
 
 | Artefato | Status | Caminho no Repositório |
 | :--- | :--- | :--- |
-| **Áudio Final (MP3/WAV)** | Concluído | [Ouvir Áudio](https://github.com/Marques3007/bootcamp-ia-universia/blob/main/podcast/audio-podcast-ia.mp3) |
-| **Capa do Podcast (PNG/JPG)** | Concluído | [Visualizar Capa](https://github.com/Marques3007/bootcamp-ia-universia/blob/main/podcast/capa-do-podcast-ia%20(1).png |
-| **Documentação de Prompts** | Concluído | [Ver Prompts do Podcast](https://github.com/Marques3007/bootcamp-ia-universia/blob/main/podcast/prompts-podcast.
+| **Áudio Final (MP3/WAV)** | Concluído | [Ouvir Áudio](https://github.com/LariMarquess/bootcamp-ia-universia/blob/main/podcast/audio-podcast-ia.mp3) |
+| **Capa do Podcast (PNG/JPG)** | Concluído | [Visualizar Capa](https://github.com/LariMarquess/bootcamp-ia-universia/blob/main/podcast/capa-do-podcast-ia%20(1).png |
+| **Documentação de Prompts** | Concluído | [Ver Prompts do Podcast](https://github.com/LariMarquess/bootcamp-ia-universia/blob/main/podcast/prompts-podcast.
 
 ### 📝 Descrição do Projeto
 
@@ -28,8 +28,8 @@ O podcast "Código Vermelho" é uma crítica marxista sobre tecnologia. O projet
 
 | Artefato | Status | Acesso |
 | :--- | :--- | :--- |
-| **E-book em PDF** | Concluído | [Visualizar E-book](https://github.com/Marques3007/bootcamp-ia-universia/blob/main/ebook/Eboock%20-%20PROLETARIADOS%20E%20PROCESSADORES.pdf) |
-| **Prompts Utilizados** | Concluído | [Ver Documentação](https://github.com/Marques3007/bootcamp-ia-universia/blob/main/ebook/prompts-ebook.md) |
+| **E-book em PDF** | Concluído | [Visualizar E-book](https://github.com/LariMarquess/bootcamp-ia-universia/blob/main/ebook/Eboock%20-%20PROLETARIADOS%20E%20PROCESSADORES.pdf) |
+| **Prompts Utilizados** | Concluído | [Ver Documentação](https://github.com/LariMarquess/bootcamp-ia-universia/blob/main/ebook/prompts-ebook.md) |
 | **Link do Artigo de Referência** | [Requisito DIO] | [Marx e a Tecnologia: Uma Análise Crítica](https://rabiscodahistoria.com/marx-e-a-tecnologia-uma-analise-critica/) |
 
 ### 📝 Visão Geral
